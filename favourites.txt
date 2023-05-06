@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 Avatar
 Avengers
 Top Gun 1,2
 
+=======
+Pizza
+Panner Butter Masala
+Burger
+Sev Tamaato Nu Ki Sabzi
+Frankie
+Pasta
+Rajma
+>>>>>>> movies
